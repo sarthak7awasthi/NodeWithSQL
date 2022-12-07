@@ -4,7 +4,7 @@
   "description": "In this tutorial, we'll set up a server for our API to live on. We'll use Node.js, which is the back-end implementation of JavaScript, and Express, a popular, minimal framework for Node.",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql": "^2.18.1"
   },
   "devDependencies": {},
